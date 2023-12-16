@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223289775827",
+    "project_id": "khojthesearch-2f76b",
+    "storage_bucket": "khojthesearch-2f76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223289775827:android:5d13e20dc0566621c3e626",
+        "android_client_info": {
+          "package_name": "com.example.house_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5TMmhip-U1V2Kw4YZ1rnQ2jeJkchReE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
